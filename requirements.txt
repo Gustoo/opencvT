@@ -15,6 +15,7 @@ GitPython==3.1.29
 idna==3.4
 importlib-metadata==5.0.0
 importlib-resources==5.10.0
+imutils==0.5.4
 Jinja2==3.1.2
 jsonschema==4.17.0
 MarkupSafe==2.1.1
